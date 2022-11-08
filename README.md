@@ -19,3 +19,6 @@
    - T1: **PB10**, T2: **PB11** , T3: **PB12**, T4: **PB13**, T5: **PB14**, T6: **PB15**, zelena LED: **PC9**, modra LED: **PC8**.
 
 ## Pinout
+
+![pinout](media/[Posnetek%20zaslona%202022-10-20%20072156.png](https://raw.githubusercontent.com/TomiHawky/Vaja5-buttons-LED-STM32F0-/main/pinout.png
+))
