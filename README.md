@@ -20,5 +20,4 @@
 
 ## Pinout
 
-![pinout](media/[Posnetek%20zaslona%202022-10-20%20072156.png](https://raw.githubusercontent.com/TomiHawky/Vaja5-buttons-LED-STM32F0-/main/pinout.png
-))
+![pinout](media(https://raw.githubusercontent.com/TomiHawky/Vaja5-buttons-LED-STM32F0-/main/pinout.png)
