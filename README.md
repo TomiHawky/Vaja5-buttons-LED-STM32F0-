@@ -20,4 +20,4 @@
 
 ## Pinout
 
-![pinout](media(https://raw.githubusercontent.com/TomiHawky/Vaja5-buttons-LED-STM32F0-/main/pinout.png)
+![pinout](https://raw.githubusercontent.com/TomiHawky/Vaja5-buttons-LED-STM32F0-/main/pinout.png)
