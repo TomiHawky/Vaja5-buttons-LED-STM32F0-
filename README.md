@@ -21,3 +21,6 @@
 ## Pinout
 
 ![pinout](https://raw.githubusercontent.com/TomiHawky/Vaja5-buttons-LED-STM32F0-/main/pinout.png)
+
+3. Komentar: tipka 5 ne deluje
+ 
